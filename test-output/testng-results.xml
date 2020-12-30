@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="softwaretestingmaterial" duration-ms="54639" started-at="2020-12-27T08:41:30Z" finished-at="2020-12-27T08:42:24Z">
+    <groups>
+    </groups>
+    <test name="testngTest" duration-ms="54639" started-at="2020-12-27T08:41:30Z" finished-at="2020-12-27T08:42:24Z">
+      <class name="TestNGClass.TestNG_01">
+        <test-method status="PASS" signature="IndianArmysiteLaunch()[pri:0, instance:TestNGClass.TestNG_01@4667ae56]" name="IndianArmysiteLaunch" duration-ms="13018" started-at="2020-12-27T14:11:30Z" description="Launch the Application" finished-at="2020-12-27T14:11:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IndianArmysiteLaunch -->
+        <test-method status="PASS" signature="IndianArmyRegistrationLaunch()[pri:0, instance:TestNGClass.TestNG_01@4667ae56]" name="IndianArmyRegistrationLaunch" duration-ms="29303" started-at="2020-12-27T14:11:43Z" description="LogIn To The Application" finished-at="2020-12-27T14:12:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IndianArmyRegistrationLaunch -->
+        <test-method status="PASS" signature="IndianArmyUserValidation()[pri:0, instance:TestNGClass.TestNG_01@4667ae56]" name="IndianArmyUserValidation" duration-ms="12247" started-at="2020-12-27T14:12:12Z" description="User Validation" finished-at="2020-12-27T14:12:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IndianArmyUserValidation -->
+      </class> <!-- TestNGClass.TestNG_01 -->
+    </test> <!-- testngTest -->
+  </suite> <!-- softwaretestingmaterial -->
+</testng-results>
