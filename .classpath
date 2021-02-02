@@ -54,5 +54,6 @@
 	<classpathentry exported="true" kind="lib" path="C:/Users/Softwares/ExtentTestReports/ExtentReports/extentreports-java-2.41.2/lib/sqlite-jdbc-3.8.11.1.jar"/>
 	<classpathentry exported="true" kind="lib" path="C:/Users/Softwares/ExtentTestReports/ExtentReports/extentreports-java-2.41.2/lib/testng-6.9.9.jar"/>
 	<classpathentry exported="true" kind="lib" path="C:/Users/Softwares/Selenium Jars_mk2/seleniumjar/Selenium Jars/ashot-1.5.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Azad/eclipse-workspace/ojdbc8-19.8.0.0.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

@@ -3,11 +3,12 @@
 <suite name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="TestNGClass.TestNG_01">
+      <class name="TestNGClass.DB_TestNG">
         <methods>
-          <include name="IndianArmysiteLaunch"/>
+          <include name="afterClass"/>
+          <include name="DataBaseJunction"/>
         </methods>
-      </class> <!-- TestNGClass.TestNG_01 -->
+      </class> <!-- TestNGClass.DB_TestNG -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
